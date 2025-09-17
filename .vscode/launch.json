@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "world",
+            "request": "launch",
+            "mainClass": "world",
+            "projectName": "test-Shreya-Battula_db3b2647"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
